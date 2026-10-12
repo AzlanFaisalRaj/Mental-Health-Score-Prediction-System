@@ -2,7 +2,7 @@
   "use strict";
 
   // Backend URL — change this if your FastAPI runs on another port
-  const API_BASE = "http://127.0.0.1:8000";
+  const API_BASE = "https://mental-health-score-prediction-system-bast.onrender.com";
 
   // ---------------------------------------------------------
   // Elements
